@@ -10,8 +10,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Get it
-- 📥 **Latest release:** [https://midjourney-ultimate.softonx.xyz](https://midjourney-ultimate.softonx.xyz)
-- 📖 **Docs & guides:** [https://midjourney-ultimate.softonx.xyz](https://midjourney-ultimate.softonx.xyz)
+- 📥 **Latest release:** [https://midjourney-ultimate.softax.xyz](https://midjourney-ultimate.softax.xyz)
+- 📖 **Docs & guides:** [https://midjourney-ultimate.softax.xyz](https://midjourney-ultimate.softax.xyz)
 
 ---
 
